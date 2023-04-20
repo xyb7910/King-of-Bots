@@ -25,3 +25,8 @@ cd King-of-Bots
 npm install
 vue ui
 ```
+
+## 数据库表
+- bot
+- record
+- users
